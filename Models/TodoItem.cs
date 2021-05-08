@@ -1,4 +1,4 @@
-namespace ProjServer.Models
+namespace TodoApi.Models
 {
     public class TodoItem
     {
